@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{29C04401-3E28-7358-C0D9-968947989775}</ProjectGuid>
+    <ProjectGuid>{4B02D179-B40B-28CB-94A8-0EC8F0F8B49F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,17 +64,18 @@
     <Compile Include="Assets\Scripts\Dragger.cs" />
     <Compile Include="Assets\Scripts\GridBuilder.cs" />
     <Compile Include="Assets\Scripts\RandomCubesGenerator.cs" />
+    <None Include="Assets\gittest\t.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>G:/uniworks/isometric/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>G:/uniworks/TestTask create grid and cubes/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>G:/uniworks/isometric/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>G:/uniworks/TestTask create grid and cubes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>G:/uniworks/isometric/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>G:/uniworks/TestTask create grid and cubes/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>G:/uniworks/isometric/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>G:/uniworks/TestTask create grid and cubes/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>G:/Unity3D/unity 2018.2.0f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
